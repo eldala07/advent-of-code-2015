@@ -15,18 +15,18 @@ with open(r"input.txt") as f:
 vectors = [[int(y) for y in x.split("x")] for x in s.split("\n")]
 # print(vectors)
 
-def part_one(vectors):
+def part_one(vec):
     paper_surface = 0
-    for [l, w, h] in vectors:
+    for [l, w, h] in vec:
         area1, area2, area3 = l*w, w*h, h*l
         slack = min(area1, area2, area3)
         paper = 2 * (area1 + area2 + area3)
         paper_surface += paper + slack
     return paper_surface
 
-def part_two(vectors):
+def part_two(vec):
     ribbon_length = 0
-    for [l, w, h] in vectors:
+    for [l, w, h] in vec:
         sides = [l, w, h]
         side_1 = min(sides)
         sides.remove(side_1)
