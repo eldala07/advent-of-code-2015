@@ -2,7 +2,7 @@
 Solutions of the 25 enigmas of the event Advent of Code 2015
 
 ---
-**Goal:** find _50 star fruits_ for the Santa's reindeer so they can deliver Christmas gifts !!
+**Goal:** find _50 stars_ for the Santa's snow machine so we can have a white Christmas !!
 
 ---
 
