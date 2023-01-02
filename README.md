@@ -9,3 +9,5 @@ Solutions of the 25 enigmas of the event Advent of Code 2015
 ✅✅ -- **01** - Santa is trying to deliver presents in a large apartment building! _[Rust]_
 
 ✅✅ -- **02** - Elves are wrapping gifts using paper and ribbon.. _[Python]_
+
+✅✅ -- **03** - Santa is delivering gifts at lucky houses!! _[Kotlin]_
