@@ -11,3 +11,5 @@ Solutions of the 25 enigmas of the event Advent of Code 2015
 ✅✅ -- **02** - Elves are wrapping gifts using paper and ribbon.. _[Python]_
 
 ✅✅ -- **03** - Santa is delivering gifts at lucky houses!! _[Kotlin]_
+
+✅✅ -- **04** - Santa is mining AdventCoins for all the economically forward-thinking little girls and boys.! _[C++]_
