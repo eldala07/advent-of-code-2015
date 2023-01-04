@@ -17,3 +17,5 @@ Solutions of the 25 enigmas of the event Advent of Code 2015
 ✅✅ -- **05** - Santa needs help figuring out which strings in his text file are naughty or nice. _[Julia]_
 
 ✅✅ -- **06** - Deploying 1_000_000 lights to impress neighbors.. _[Lua]_
+
+✅✅ -- **07** - Santa is helping Bobby Tables to assemble his circuit! _[Go]_
