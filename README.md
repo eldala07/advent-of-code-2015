@@ -21,3 +21,7 @@ Solutions of the 25 enigmas of the event Advent of Code 2015
 ✅✅ -- **07** - Santa is helping Bobby Tables to assemble his circuit! _[Go]_
 
 ✅✅ -- **08** - Santa figuring out how much storage space is left for his digital list.. _[Dart]_
+
+⏳⏳ -- **09** - Trying to find the shortest path between two cities! _[Elixir]_
+
+✅✅ -- **10** - Elves are playing look-and-say.. _[F#]_
